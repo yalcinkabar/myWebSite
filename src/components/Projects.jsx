@@ -2,7 +2,7 @@ import portfolioData from "../data/portfolioData";
 import { useAppContext } from "../context/AppContext";
 import pizzaChallenge from "../assets/pizza-cha.png";
 import pizzaDog from "../assets/pizza-dog.png";
-import bankApp from "../assets/BankApp.png";
+import bankApp from "../assets/bank-app.png";
 
 function Projects() {
     const { language } = useAppContext();
