@@ -86,7 +86,7 @@ const portfolioData = {
                     github:
                         "https://github.com/yalcinkabar/workin-s8-react-challenge-pizza",
 
-                    website: "#",
+                    website: "https://workin-s8-react-challenge-pizza.vercel.app/",
                 },
 
                 {
@@ -228,7 +228,7 @@ const portfolioData = {
                     github:
                         "https://github.com/yalcinkabar/workin-s8-react-challenge-pizza",
 
-                    website: "#",
+                    website: "https://workin-s8-react-challenge-pizza.vercel.app/",
                 },
 
                 {
